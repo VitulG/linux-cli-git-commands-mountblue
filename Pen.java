@@ -2,6 +2,6 @@ public class Pen {
 	private int x;
 
 	public Pen() {
-		this.x = 10;
+		this.x = 20;
 	}
 }
